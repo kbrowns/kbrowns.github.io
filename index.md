@@ -1,4 +1,3 @@
-# Hello World
- - hi
- - there
-# si?
+# Cheatsheets
+* (Powershell Cheats)[powershell-cheats.md]
+* (Ruby Cheats)[ruby-cheats.md]

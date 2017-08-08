@@ -1,6 +1,6 @@
 # Ruby Cheats
 ## Download File
-this is properly handle redirects
+this properly handle redirects
 ```
 require 'open-uri'
 

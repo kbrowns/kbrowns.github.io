@@ -33,3 +33,12 @@ knife acl show containers cookbooks
 knife acl show containers policies
 knife acl show containers policy_groups
 ```
+
+### Add group permission
+```
+knife acl add group publisher containers policy_groups create
+```
+### Remove group permissions
+```
+knife acl remove group publisher containers policy_groups create
+```

@@ -2,3 +2,4 @@
 * [Powershell Cheats](powershell-cheats.md)
 * [Ruby Cheats](ruby-cheats.md)
 * [Chef Cheats](chef-cheats.md)
+* [Bash Cheats](bash-cheats.md)

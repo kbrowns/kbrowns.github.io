@@ -10,4 +10,6 @@
 ** [Reflection](dotnet-reflection-cheats.md)
 ** [String Handling](dotnet-string-cheats.md)
 ** [WCF](dotnet-wcf-cheats.md)
+** [XML](dotnet-xml.md)
+** [Pathing](dotnet-pathing.md)
 * [Windows Deployment Cheats](windows-deployment-cheats.md)

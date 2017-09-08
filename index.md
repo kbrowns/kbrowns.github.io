@@ -3,3 +3,4 @@
 * [Ruby Cheats](ruby-cheats.md)
 * [Chef Cheats](chef-cheats.md)
 * [Bash Cheats](bash-cheats.md)
+* [Git Cheats](git-cheats.md)

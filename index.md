@@ -9,6 +9,7 @@
   * [Embedded Resources](dotnet-embedded-resources-cheats.md)
   * [Reflection](dotnet-reflection-cheats.md)
   * [String Handling](dotnet-string-cheats.md)
+  * [Security](dotnet-security-cheats.md)
   * [WCF](dotnet-wcf-cheats.md)
   * [XML](dotnet-xml.md)
   * [Pathing](dotnet-pathing.md)

@@ -14,3 +14,4 @@
   * [XML](dotnet-xml.md)
   * [Pathing](dotnet-pathing.md)
 * [Windows Deployment Cheats](windows-deployment-cheats.md)
+* [SSH Cheats](ssh-cheats.md)

@@ -15,6 +15,12 @@ host git-codecommit.*.amazonaws.com
   IdentityFile ~/.ssh/brok02
 ```
 
+Setup permissions
+
+```
+chmod 600 ~/.ssh/config
+```
+
 ## Key Gen
 
 ```

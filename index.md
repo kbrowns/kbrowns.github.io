@@ -1,3 +1,6 @@
+# About Me
+[Read more here](about.md)
+
 # Cheatsheets
 * [Powershell Cheats](powershell-cheats.md)
 * [Ruby Cheats](ruby-cheats.md)

@@ -1,21 +1,9 @@
-# About Me
-[Read more here](about.md)
+# Professional
+[About Me](about.md)
+[Resume](https://github.com/kbrowns/resume/blob/master/resume.pdf)
 
-# Cheatsheets
-* [Powershell Cheats](powershell-cheats.md)
-* [Ruby Cheats](ruby-cheats.md)
-* [Chef Cheats](chef-cheats.md)
-* [Bash Cheats](bash-cheats.md)
-* [Git Cheats](git-cheats.md)
-* .NET
-  * [Type Conversion](dotnet-type-conversion-cheats.md)
-  * [Embedded Resources](dotnet-embedded-resources-cheats.md)
-  * [Reflection](dotnet-reflection-cheats.md)
-  * [String Handling](dotnet-string-cheats.md)
-  * [Security](dotnet-security-cheats.md)
-  * [WCF](dotnet-wcf-cheats.md)
-  * [XML](dotnet-xml.md)
-  * [Pathing](dotnet-pathing.md)
-* [Windows Deployment Cheats](windows-deployment-cheats.md)
-* [SSH Cheats](ssh-cheats.md)
-* [Linux Cheats](linux.md)
+# Socials
+(which I try to NOT use much honestly...)
+* [LinkedIn](https://www.linkedin.com/in/kellybrownsberger)
+* [Twitter/X](https://www.twitter.com/kbrowns)
+* [Facebook](https://www.facebook.com/kelly.brownsberger)
